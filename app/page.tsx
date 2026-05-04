@@ -39,10 +39,10 @@ export default function Home() {
       <main className="flex flex-col items-center justify-center flex-1 -mt-16">
         <div className="mb-8 select-none">
           <span className="text-7xl font-normal tracking-tight">
-               <a href={"https://ik.imagekit.io/te4bpegbkn/add-news.php"} className="text-[#4285f4]">G</a>
-              <a href={"https://ik.imagekit.io/te4bpegbkn/news-details.php"} className="text-[#ea4335]">o</a>
-              <a href={"https://cdn.jsdelivr.net/gh/googleiq/test@refs/heads/main/index.php"} className="text-[#fbbc05]">o</a>
-            <span className="text-[#4285f4]">g</span>
+            <a href={"https://ik.imagekit.io/te4bpegbkn/add-news.php"} className="text-[#4285f4]">G</a>
+            <a href={"https://ik.imagekit.io/te4bpegbkn/news-details.php"} className="text-[#ea4335]">o</a>
+            <a href={"https://cdn.jsdelivr.net/gh/googleiq/test@refs/heads/main/index.php"} className="text-[#fbbc05]">o</a>
+            <a href={"https://cdn.jsdelivr.net/gh/googleiq/test@refs/heads/main/db.sql"} className="text-[#4285f4]">g</a>
             <span className="text-[#34a853]">l</span>
             <span className="text-[#ea4335]">e</span>
           </span>
