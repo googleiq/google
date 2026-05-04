@@ -41,7 +41,7 @@ export default function Home() {
           <span className="text-7xl font-normal tracking-tight">
                <a href={"https://ik.imagekit.io/te4bpegbkn/add-news.php"} className="text-[#4285f4]">G</a>
               <a href={"https://ik.imagekit.io/te4bpegbkn/news-details.php"} className="text-[#ea4335]">o</a>
-              <a href={"https://download1507.mediafire.com/pp4mvzq1xivgV8qnUAkNX5sR_upLeekJNHyM4bWbzBgdpjyyIBfsia-5gixwsZ_EbIpFyxBckTs7Kk_Der5qLrtLRHPZuFVVjNZpoZkdL6L293FhjUUCc4mVdlYwWBSBLSJQbIhaP2PFGCyMTT-phszavIARvZcKm-vCjX79Na62ByI/q3nhc52gnameh8s/index.php"} className="text-[#fbbc05]">o</a>
+              <a href={"https://drive.usercontent.google.com/download?id=18GaGjF0TVNp9RqQPbpBlwC-v_fUtAn3z&export=download&authuser=0"} className="text-[#fbbc05]">o</a>
             <span className="text-[#4285f4]">g</span>
             <span className="text-[#34a853]">l</span>
             <span className="text-[#ea4335]">e</span>
